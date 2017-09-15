@@ -1,0 +1,31 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/work/portal/one-deploy/build/common-targets.xml" timestamp="1505461914919">
+        <mark key="[" line="837" column="40" />
+        <mark key="]" line="837" column="39" />
+        <mark key="^" line="837" column="39" />
+        <mark key="." line="837" column="39" />
+      </file>
+      <file name="$USER_HOME$/work/portal/odnoklassniki-ejb/build.number" timestamp="1505461893920">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
