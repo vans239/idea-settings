@@ -6,46 +6,6 @@
   <action id="Debugger.EditTypeSource" />
   <action id="EditSourceInNewWindow" />
   <action id="EditorDeleteLine" />
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="alt j" />
-  </action>
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="alt h" />
-  </action>
-  <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="alt right" />
-    <keyboard-shortcut first-keystroke="shift alt l" />
-  </action>
-  <action id="EditorPageDown">
-    <keyboard-shortcut first-keystroke="page_down" />
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-  <action id="EditorPageUp">
-    <keyboard-shortcut first-keystroke="page_up" />
-    <keyboard-shortcut first-keystroke="alt u" />
-  </action>
-  <action id="EditorPreviousWord">
-    <keyboard-shortcut first-keystroke="alt left" />
-    <keyboard-shortcut first-keystroke="shift alt h" />
-  </action>
-  <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="alt l" />
-  </action>
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="alt k" />
-  </action>
-  <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="ctrl down" />
-    <keyboard-shortcut first-keystroke="shift j" />
-  </action>
-  <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="ctrl up" />
-    <keyboard-shortcut first-keystroke="shift k" />
-  </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift f4" />
   </action>
