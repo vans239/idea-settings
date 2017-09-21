@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../src/one/app/community/control/ejb/handlers/feed - [odnoklassniki-ejb]'" />
-    <option name="defaultScopeName" value="Directory '.../src/one/app/community/control/ejb/handlers/feed - [odnoklassniki-ejb]'" />
+    <option name="customScope" value="Directory '.../src/one/app/community/control/ejb/handlers/feed/onflyportlets/promotopic - [odnoklassniki-ejb]'" />
+    <option name="defaultScopeName" value="Directory '.../src/one/app/community/control/ejb/handlers/feed/onflyportlets/promotopic - [odnoklassniki-ejb]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src/one/app/community/control/ejb/handlers/feed - [odnoklassniki-ejb]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/one/app/community/control/ejb/handlers/feed/onflyportlets/promotopic - [odnoklassniki-ejb]'" />
   </component>
 </application>
