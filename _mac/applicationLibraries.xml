@@ -21,10 +21,7 @@
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/sources/scala-library-2.10.5-sources.jar!/" />
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/sources/scala-reflect-2.10.5-sources.jar!/" />
       </CLASSES>
-      <JAVADOC>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/javadocs/scala-library-2.10.5-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/javadocs/scala-reflect-2.10.5-javadoc.jar!/" />
-      </JAVADOC>
+      <JAVADOC />
       <SOURCES />
     </library>
   </component>
