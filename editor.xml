@@ -2,20 +2,14 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
-        <entry key="Groovy" value="true" />
-        <entry key="HOCON" value="true" />
-        <entry key="HTML" value="true" />
         <entry key="JAVA" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="Scala" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="kotlin" value="true" />
-        <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
