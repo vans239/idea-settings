@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Gradle build" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="gradle" />
+      <option name="PARAMETERS" value="package" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/work/java/trieste-events" />
+    </exec>
+  </tool>
+</toolSet>
